@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Przewodnik Adrspachem</string>
+    <string name="action_settings">Ustawienia</string>
+    <string name="button_trips">Wycieczki</string>
+    <string name="button_attractions">Atrakcje</string>
+    <string name="button_food_and_drink">Jedzenie i picie</string>
+    <string name="button_accommodation">Noclegi</string>
+</resources>

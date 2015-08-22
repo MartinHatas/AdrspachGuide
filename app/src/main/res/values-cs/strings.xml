@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Adršpašský průvodce</string>
+    <string name="action_settings">Nastavení</string>
+    <string name="button_trips">Výlety</string>
+    <string name="button_attractions">Zajímavosti</string>
+    <string name="button_food_and_drink">Jídlo a pití</string>
+    <string name="button_accommodation">Ubytování</string>
+</resources>
